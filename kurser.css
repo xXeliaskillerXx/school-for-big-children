@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: lightblue;
 }
@@ -5,4 +9,15 @@ body{
 #schoolcrest{
  width: 30px;
  height: 30px;
+}
+
+#kurser{
+    width: 40vw;
+    height: 100vh;
+    background-color:white;
+    margin: auto;
+}
+img{
+    width: 64px;
+    height: 64px;
 }
